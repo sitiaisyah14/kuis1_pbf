@@ -1,0 +1,35 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": 2041720061,
+      "nama": "Siti Aisyah",
+      "alamat": "Jl. Kembang Turi No.17 Malang",
+      "hp": "083857129219",
+      "angkatan": 2020,
+      "status": "aktif",
+      "jurusan": "Teknologi Informasi"
+    },
+    {
+      "NIM": 2041720022,
+      "nama": "Nanda Fajar Rijekki",
+      "alamat": "Jl. Semanggi Barat No.06 Malang",
+      "hp": "081376746534",
+      "angkatan": 2020,
+      "status": "aktif",
+      "jurusan": "Teknik Mesin"
+    },
+    {
+      "userId": 1,
+      "id": 1679385025328,
+      "NIM": "2041720068",
+      "nama": "Aprilia Faranisa Azni",
+      "alamat": "Sukorejo, Pasuruan",
+      "hp": "083646262828",
+      "angkatan": "2018",
+      "status": "Lulus"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
